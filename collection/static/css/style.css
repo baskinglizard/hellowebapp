@@ -1,0 +1,17 @@
+body {
+	background-color: #ccf2ff;
+}
+h1 {
+	font-family: Arial; 
+    border-style: groove; 
+    border-color: #004d00; 
+    text-align: center;
+    background-color: #80bfff;
+}
+h2 {
+	font-family: Times;
+}
+
+p {
+    font-family: Arial;
+}
